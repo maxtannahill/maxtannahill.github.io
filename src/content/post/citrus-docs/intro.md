@@ -1,5 +1,5 @@
 ---
-title: "Placeholder title for Sentinel"
+title: "Placeholder title for Sentinel Watch"
 publishDate: "20 December 2024"
 description: "Astro Citrus is a versatile template for managing blogs and creating comprehensive project documentation"
 seriesId: citrus-docs
