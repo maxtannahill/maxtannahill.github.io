@@ -25,7 +25,7 @@ import {
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://maxtannahill.github.io/'
+  site: 'https://maxtannahill.github.io/',
   image: {
     domains: ["webmention.io"],
   },
