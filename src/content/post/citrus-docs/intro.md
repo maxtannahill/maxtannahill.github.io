@@ -1,5 +1,5 @@
 ---
-title: "Introducing Astro Citrus!"
+title: "Placeholder title for Sentinel"
 publishDate: "20 December 2024"
 description: "Astro Citrus is a versatile template for managing blogs and creating comprehensive project documentation"
 seriesId: citrus-docs
