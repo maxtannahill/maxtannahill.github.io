@@ -72,26 +72,7 @@ const latestNotes = allNotes.sort(collectionDateSort).slice(0, MAX_NOTES);
 		</ul>
 	</section>
 
-	<!-- Notes Section -->
-	{
-		latestNotes.length > 0 && (
-			<section class="mt-12">
-				<h2 class="title mb-6 text-accent-two">
-					<a href="/notes/">Notes</a>
-				</h2>
-				<div class="grid grid-cols-1 gap-8 sm:grid-cols-2">
-					{
-						latestNotes.map((note) => (
-							<div>
-								<Note note={note} as="h4" isPreview />
-							</div>
-						))
-					}
-				</div>
-			</section>
-		)
-	}
-
+	
 	<!-- Debug -->
 	<!--
 	<div class="flex justify-between flex-wrap gap-y-1.5 mt-6 text-sm font-medium">
