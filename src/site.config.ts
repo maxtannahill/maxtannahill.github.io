@@ -19,7 +19,7 @@ export const siteConfig: SiteConfig = {
 	// Meta property, found in src/components/BaseHead.astro L:42
 	ogLocale: "en_GB",
 	// Used to construct the meta title property found in src/components/BaseHead.astro L:11, and webmanifest name found in astro.config.ts L:42
-	title: "Sentinel Watch Only",
+	title: "Sentinel",
 };
 
 // Used to generate links in both the Header & Footer.
@@ -35,9 +35,5 @@ export const menuLinks: { path: string; title: string }[] = [
 	{
 		path: "/posts/",
 		title: "Blog",
-	},
-	{
-		path: "/notes/",
-		title: "Notes",
 	},
 ];
