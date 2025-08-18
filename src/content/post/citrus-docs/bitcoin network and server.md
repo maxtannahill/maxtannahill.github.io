@@ -4,6 +4,7 @@ description: When launching Sentinel for the first time you are presented with t
 publishDate: 04 Feb 2025
 seriesId: citrus-docs
 orderInSeries: 4
+featured: false
 tags: ["getting-started", "CSS", "citrus"]
 ---
 
